@@ -1,0 +1,76 @@
+.stat {
+   margin: auto;
+   text-align: center;
+   margin-left: -40px;
+}
+.label1{
+   color: white;
+}
+.label2{
+   color: white;
+}
+.label3{
+   color: white;
+}
+.label4{
+   color: white;
+}
+.title{
+   padding: 35px;
+   text-align: center;
+   color: grey;
+   background-color: aliceblue;
+   margin: auto;
+   width: 250px;
+}
+.percentage1{
+   color: white;
+   vertical-align: -35px;
+   margin-left: -25px;
+}
+.percentage2{
+   color: white;
+   vertical-align: -35px;
+   margin-left: -25px;
+}
+.percentage3{
+   color: white;
+   vertical-align: -35px;
+   margin-left: -25px;
+}
+.percentage4{
+   color: white;
+   vertical-align: -35px;
+   margin-left: -25px;
+}
+.item1{
+   margin: 0;
+   background-color: aqua; 
+   width: 80px;
+   height: 80px; 
+   display: inline-block;
+}
+.item2{
+   margin: 0;
+   background-color: purple; 
+   width: 80px;
+   height: 80px; 
+   display: inline-block;
+}
+.item3{
+   margin: 0;
+   background-color: lightcoral; 
+   width: 80px;
+   height: 80px; 
+   display: inline-block;
+}
+.item4{
+   margin: 0;
+   background-color: lightseagreen; 
+   width: 80px;
+   height: 80px; 
+   display: inline-block;
+}
+li {
+   list-style-type: none;
+}
